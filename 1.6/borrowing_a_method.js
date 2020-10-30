@@ -28,5 +28,5 @@ console.log(Object.prototype.hasOwnProperty.call(map, "three"));
  Solution #1: Copies the object with the argArray value and performs the method call on a new prototype.
  Solution #2: Doesn't create a new object.
 
- @reference url: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty
+ @reference https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/hasOwnProperty
  */
