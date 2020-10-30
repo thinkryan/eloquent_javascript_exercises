@@ -19,7 +19,7 @@ function countChar(word, letter) {
 }
 
 /**
- * Count the occurence of B's in a word
+ * Count the occurrence of B's in a word
  * @param word
  * @returns {number}
  */
